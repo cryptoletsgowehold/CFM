@@ -1,6 +1,6 @@
 # CFM
 Crypto-Friendly Music
-Music is one of the most efficient phenomenons for embracing moments and to feel connected with others.
+is one of the most efficient phenomenons for embracing moments and to feel connected with others.
 Even during a crisis, music plays a vital role. 
 
 The goal of this project is to create a HQ crypto-related album [b]HODLIN[/b] (with 15 tracks) in order to normalize the crypto industry.

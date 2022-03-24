@@ -3,7 +3,7 @@ Crypto-Friendly Music
 is one of the most efficient phenomenons for embracing moments and to feel connected with others.
 Even during a crisis, music plays a vital role. 
 
-The goal of this project is to create a HQ crypto-related album [b]HODLIN[/b] (with 15 tracks) in order to normalize the crypto industry.
+The goal of this project is to create a HQ crypto-related album "HODLIN" (15 tracks) in order to normalize the crypto industry.
 Collaborating musicians (string & brass players) and sound technicians are welcomed!
 15 songs in total will be produced, leaving ~1 ETH compensation per track.
 All collaborating musicians/sound technicians will receive equal shares of the compensation for any track they participate in.

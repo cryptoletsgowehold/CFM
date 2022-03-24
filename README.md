@@ -11,7 +11,7 @@ All collaborating musicians/sound technicians will receive equal shares of the c
 Crowdfunding is required in order to finance studio time, cables/strings and expenses during the project.
 The goal is to reach ~15.00 ETH or 1.00 BTC, after which the project kicks off.
 
-The first song [b]Jump the Rocket[/b] for the album is already finished, as a "showcase demo".
+The first song Jump the Rocket for the album is already finished, as a "showcase demo".
 All other tracks will be released here for feedback prior to the album release.
 
 Take care of each other and don't forget to hodl.
